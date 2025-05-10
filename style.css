@@ -490,8 +490,8 @@ filter: brightness(1);
 h2{
         font-size:15px;
     color: white;
-    margin-bottom: 40px;
+
     position: relative;
-    bottom: 30px;
+   top: 50px;
 }
 }
