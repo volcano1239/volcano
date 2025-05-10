@@ -11,13 +11,16 @@
 .hm{
         margin: 50px;
         margin-top: 500px;
-filter: brightness(1);
+
 }
 .one{
     font-size:20px;
     color: white;
 
 
+}
+h2{
+    text-shadow: 0px 0px 0px 10px red;
 }
 ::-webkit-scrollbar {
     display: none;
@@ -483,5 +486,9 @@ filter: brightness(1);
     font-size:5px;
     color: white;
 }
+}
+h2{
+        font-size:20px;
+    color: white;
 }
 }
