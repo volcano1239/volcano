@@ -473,6 +473,7 @@ transition: 0.5s ease-in-out;
         margin: 50px;
         margin-top: 510px;
 filter: brightness(1);
+     font-size:10px;
 }
 .one{
     font-size:10px;
